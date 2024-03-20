@@ -6,3 +6,4 @@ contractions
 wordcloud
 plotly
 nbformat == 4.2.0
+textblob
